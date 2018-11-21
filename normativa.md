@@ -24,53 +24,27 @@ Altri riferimenti normativi in merito:
 * la [Circolare <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> 2/2015](https://www.agid.gov.it/sites/default/files/repository_files/circolari/agid_specifiche_postazioni_lavoro.pdf), riguardante le specifiche tecniche sull’hardware, il software e le tecnologie assistive delle postazioni di lavoro a disposizione del dipendente con disabilità
 * la [Circolare <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> 3/2017](https://www.agid.gov.it/sites/default/files/repository_files/uploads/193/circolare_agid_03-2017_servizi_a_sportello_accessibili.pdf), riguardante i servizi a sportello, i servizi online indirizzati al pubblico, e i servizi interni di supporto ad essi
 
-## Codice dell'Amministrazione Digitale (D.Lgs. 82/2005 e s.m.i.)
+## Il Codice dell'Amministrazione Digitale
 
-### Art. 7. - Qualità dei servizi resi e soddisfazione dell'utenza.
+Riferimenti normativi inerenti l'accessibilità delle informazioni, intesa sia come la loro fruibilità da parte anche di soggetti disabili e di sistemi automatici, che come la comprensibilità e la trasparenza delle informazioni stesse, si ritrovano anche nel Codice dell'Amministrazione Digitale ([<abbr title="Decreto Legislativo">D.Lgs.</abbr> 82/2005](http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104&queryString=%3FmeseProvvedimento%3D%26formType%3Dricerca_semplice%26numeroArticolo%3D%26numeroProvvedimento%3D82%26testo%3D%26annoProvvedimento%3D2005%26giornoProvvedimento%3D&currentPage=1))
 
-Comma 1 - I soggetti di cui all'articolo 2, Comma 2, provvedono alla riorganizzazione e all'aggiornamento dei servizi resi, sulla base di una preventiva analisi delle reali esigenze dei soggetti giuridici e rendono disponibili i propri servizi per via telematica nel rispetto delle disposizioni del presente Codice e degli standard e livelli di qualità anche in termini di fruibilità, accessibilità, usabilità e tempestività, stabiliti con le regole tecniche di cui all'articolo 71.
-
-Comma 3 - Per i servizi in rete, i soggetti di cui all'articolo 2, Comma 2, consentono agli utenti di esprimere la soddisfazione rispetto alla qualità, anche in termini di fruibilità, accessibilità e tempestività, del servizio reso all'utente stesso e pubblicano sui propri siti i dati risultanti, ivi incluse le statistiche di utilizzo.
-
-### Art. 13. - Formazione informatica dei dipendenti pubblici.
-
-Comma 1 - Le pubbliche amministrazioni nella predisposizione dei piani di cui all'articolo 7-bis, del decreto legislativo 30 marzo 2001, n. 165, e nell'àmbito delle risorse finanziarie previste dai piani medesimi, attuano anche politiche di formazione del personale finalizzate alla conoscenza e all'uso delle tecnologie dell'informazione e della comunicazione, nonché dei temi relativi all'accessibilità e alle tecnologie assistive, ai sensi dell'articolo 8 della legge 9 gennaio 2004, n. 4.
-
-### Art. 17. - Strutture per l'organizzazione, l'innovazione e le tecnologie.
-
-Comma 1 – Le pubbliche amministrazioni garantiscono l'attuazione delle linee strategiche per la riorganizzazione e la digitalizzazione dell'amministrazione definite dal Governo in coerenza con le regole tecniche di cui all'articolo 71. A tal fine, ciascuno dei predetti soggetti affida a un unico ufficio dirigenziale generale, fermo restando il numero complessivo di tali uffici, la transizione alla modalità operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un'amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità. Al suddetto ufficio sono inoltre attribuiti i compiti relativi a:
-
-a) … b) … c) …
-
-d) accesso dei soggetti disabili agli strumenti informatici e promozione dell'accessibilità anche in attuazione di quanto previsto dalla legge 9 gennaio 2004, n. 4;
-
-e) … f) … g) … h) … i) …
-
-j) pianificazione e coordinamento del processo di diffusione, all'interno dell'amministrazione, dei sistemi di posta elettronica, protocollo informatico, firma digitale o firma elettronica qualificata e mandato informatico, e delle norme in materia di accessibilità e fruibilità.
-
-### Art. 23-ter. - Documenti amministrativi informatici.
-
-Comma 5-bis. - I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale, applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
-
-### Art. 50. - Disponibilità dei dati delle pubbliche amministrazioni.
-
-Comma 1 - I dati delle pubbliche amministrazioni sono formati, raccolti, conservati, resi disponibili e accessibili con l'uso delle tecnologie dell'informazione e della comunicazione che ne consentano la fruizione e riutilizzazione, alle condizioni fissate dall'ordinamento, da parte delle altre pubbliche amministrazioni e dai privati.
-
-### Art. 51. - Sicurezza dei dati, dei sistemi e delle infrastrutture delle pubbliche amministrazioni.
-
-Comma 1 - Con le regole tecniche adottate ai sensi dell'articolo 71 sono individuate le soluzioni tecniche idonee a garantire la protezione, la disponibilità, l'accessibilità, l'integrità e la riservatezza dei dati e la continuità operativa, dei sistemi e delle infrastrutture.
-
-### Art. 53. - Siti Internet delle pubbliche amministrazioni.
-
-Comma 1 - Le pubbliche amministrazioni realizzano siti istituzionali su reti telematiche che rispettano i principi di accessibilità, nonché di elevata usabilità e reperibilità, anche da parte delle persone disabili, completezza di informazione, chiarezza di linguaggio, affidabilità, semplicità di consultazione, qualità, omogeneità ed interoperabilità. Sono in particolare resi facilmente reperibili e consultabili i dati di cui all'articolo 54.
-
-### Art. 60. - Base di dati di interesse nazionale.
-
-Comma 2 - Ferme le competenze di ciascuna pubblica amministrazione, le basi di dati di interesse nazionale costituiscono, per ciascuna tipologia di dati, un sistema informativo unitario che tiene conto dei diversi livelli istituzionali e territoriali e che garantisce l'allineamento delle informazioni e l'accesso alle medesime da parte delle pubbliche amministrazioni interessate. Tali sistemi informativi possiedono le caratteristiche minime di sicurezza, accessibilità e interoperabilità e sono realizzati e aggiornati secondo le regole tecniche di cui all'articolo 71 e secondo le vigenti regole del Sistema statistico nazionale di cui al decreto legislativo 6 settembre 1989, n. 322, e successive modificazioni.
-
-### Art. 71. - Regole tecniche.
-
-Comma 1-ter. - Le regole tecniche di cui al presente codice sono dettate in conformità ai requisiti tecnici di accessibilità di cui all'articolo 11 della legge 9 gennaio 2004, n. 4, alle discipline risultanti dal processo di standardizzazione tecnologica a livello internazionale ed alle normative dell'Unione europea.
+L'ultima versione del <abbr title="Codice dell'Amministrazione Digitale">CAD</abbr>, così come aggiornato dal [<abbr title="Decreto Legislativo">D.Lgs.</abbr> 217/2017](http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2018-01-12&atto.codiceRedazionale=18G00003&atto.articolo.numero=66&atto.articolo.tipoArticolo=0):
+* introduce la definizione di dato di tipo aperto (<abbr title="articolo">art.</abbr> 1, <abbr title="comma">c.</abbr> 1, <abbr title="lettera">lett.</abbr> l-ter)) come accessibile tramite le tecnologie informatiche e in modo che sia utilizzabile da sistemi automatici
+* prevede una vera e propria Carta della Cittadinanza Digitale, che include tra l'altro:
+  * il diritto a partecipare al procedimento amministrativo mediante strumenti informatici accessibili ed efficaci (<abbr title="articolo">art.</abbr> 3, <abbr title="comma">c.</abbr> 1)
+  * il diritto a servizi on-line semplici e integrati (<abbr title="articolo">art.</abbr> 7)
+  * la possibilità per gli utenti di valutare tali strumenti e servizi anche in termini di fruibilità, accessibilità e tempestività (<abbr title="articolo">art.</abbr> 7, <abbr title="comma">c.</abbr> 3)
+* richiede che le PA formino i propri dipendenti sull'uso delle tecnologie assistive (<abbr title="articolo">art.</abbr> 13)
+* assegna ad un apposito ufficio, il Responsabile per la Transizione Digitale, i compiti relativi all'accesso dei soggetti disabili agli strumenti informatici (<abbr title="articolo">art.</abbr> 17, <abbr title="comma">c.</abbr> 1, <abbr title="lettera">lett.</abbr> d)) e la diffusione delle normative in materia di accessibiltà, fruibilità e interoperabilità tra i sistemi della PA (<abbr title="articolo">art.</abbr> 17, <abbr title="comma">c.</abbr> 1, <abbr title="lettera">lett.</abbr> j))
+* prevede che atti e documenti informatici prodotti dalla PA rispettino tutti i requisiti tecnici di accessibilità previsti dalla Legge Stanca (<abbr title="articolo">art.</abbr> 23-ter, <abbr title="comma">c.</abbr> 5-bis)
+* stabilisce che per i fascicoli informatici, potendo comprendere materiale proveniente da più amministrazioni (<abbr title="articolo">art.</abbr> 41, <abbr title="comma">c.</abbr> 2), debba essere garantita l'interoperabilità tra sistemi, demandando all'AgID la formazione delle specifiche tecniche per la loro costruzione e accessibilità, anche da parte dei soggetti interessati (<abbr title="articolo">art.</abbr> 41, <abbr title="comma">c.</abbr> 2-bis), nell'ambito di un sistema pubblico di ricerca documentale (<abbr title="articolo">art.</abbr> 40-ter)
+* solleva il cittadino dall'obbligo di conservazione dei documenti informatici che lo riguardano: vi può avere accesso semplicemente richiedendoli nuovamente all'amministrazione che li ha emessi, previa identificazione con identità digitale (<abbr title="articolo">art.</abbr> 43, <abbr title="comma">c.</abbr> 1-bis)
+* stabilisce che i dati delle pubbliche amministazioni siano formati, raccolti e conservati in modo che siano fruibili e riutilizzabili da altre PA e da privati cittadini, fermi restando leggi e regolamenti vigenti relativi alla loro conoscibilità (<abbr title="articolo">art.</abbr> 50)
+* impone per i siti web delle PA il rispetto dei principi di accessibilità e usabilità, reperibilità e completezza delle informazioni, semplicità di consultazione, qualità, omogeneità ed interoperabilità (<abbr title="articolo">art.</abbr> 53), soprattutto per quanto riguarda:
+  * i dati di cui al Decreto Trasparenza (<abbr title="articolo">art.</abbr> 54)
+  * i dati identificativi delle questioni pendenti dinanzi all'autorità giudiziaria (<abbr title="articolo">art.</abbr> 56, <abbr title="comma">c.</abbr> 1)
+* definisce le basi di dati di interesse nazionale come sistemi informativi unitari rispondenti a criteri minimi di sicurezza, accessibilità e interoperabilità (<abbr title="articolo">art.</abbr> 60, <abbr title="comma">c.</abbr> 2) stabiliti nelle Linee guida (<abbr title="articolo">art.</abbr> 71)
+* assegna all'AgID il compito di formulare le linee guida necessarie per l'attuazione del CAD, che devono includere i requisiti tecnici di accessibilità previsti dalla Legge Stanca (<abbr title="articolo">art.</abbr> 71, <abbr title="comma">c.</abbr> 1-ter) 
 
 ## Disposizioni in materia di riconoscibilità, aggiornamento, usabilità, accessibilità e registrazione al dominio ".gov.it" dei siti web delle P.A.. (Direttiva 8/2009 Ministero della Pubblica Amministrazione)
 
