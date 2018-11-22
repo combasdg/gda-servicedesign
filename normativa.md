@@ -71,22 +71,6 @@ Direttiva del Ministro per la Pubblica Amministrazione e l’innovazione per la 
 
 Comma 7 - Entro il 31 marzo di ogni anno, le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, pubblicano nel proprio sito web, gli obiettivi di accessibilità per l'anno corrente e lo stato di attuazione del "piano per l'utilizzo del telelavoro" nella propria organizzazione, in cui identificano le modalità di realizzazione e le eventuali attività per cui non è possibile l'utilizzo del telelavoro. La redazione del piano in prima versione deve essere effettuata entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. La mancata pubblicazione è altresì rilevante ai fini della misurazione e valutazione della performance individuale dei dirigenti responsabili.
 
-## Decreto Trasparenza (D.Lgs. 33/2013 e s.m.i.)
-
-### Art. 1. - Principio generale di trasparenza
-
-Comma 1 - La trasparenza è intesa come accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni, allo scopo di tutelare i diritti dei cittadini, promuovere la partecipazione degli interessati all'attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche.
-
-### Art. 6 - Qualità delle informazioni
-
-Comma 1 - Le pubbliche amministrazioni garantiscono la qualità delle informazioni riportate nei siti istituzionali nel rispetto degli obblighi di pubblicazione previsti dalla legge, assicurandone l'integrità, il costante aggiornamento, la completezza, la tempestività, la semplicità di consultazione, la comprensibilità, l'omogeneità, la facile accessibilità, nonché la conformità ai documenti originali in possesso dell'amministrazione, l'indicazione della loro provenienza e la riutilizzabilità secondo quanto previsto dall'articolo 7.
-
-Comma 2 - L'esigenza di assicurare adeguata qualità delle informazioni diffuse non può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti.
-
-### Art. 9 - Accesso alle informazioni pubblicate nei siti
-
-Comma 1 - Ai fini della piena accessibilità delle informazioni pubblicate, nella home page dei siti istituzionali è collocata un'apposita sezione denominata «Amministrazione trasparente», al cui interno sono contenuti i dati, le informazioni e i documenti pubblicati ai sensi della normativa vigente. Al fine di evitare eventuali duplicazioni, la suddetta pubblicazione può essere sostituita da un collegamento ipertestuale alla sezione del sito in cui sono presenti i relativi dati, informazioni o documenti, assicurando la qualità delle informazioni di cui all'articolo 6. Le amministrazioni non possono disporre filtri e altre soluzioni tecniche atte ad impedire ai motori di ricerca web di indicizzare ed effettuare ricerche all'interno della sezione «Amministrazione trasparente».
-
 ## Obiettivi di accessibilità (Circolare AgID 61/2013, aggiornata con Circolare AgID 1/2016)
 
 Disposizioni del decreto legge 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221 in tema di accessibilità dei siti web e servizi informatici. Obblighi delle pubbliche Amministrazioni.
