@@ -58,6 +58,7 @@ Con il [Decreto Trasparenza (<abbr title="Decreto Legislativo">D.Lgs.</abbr> 33/
 * il principio generale di trasparenza, intesa come accessibilità totale dei dati detenuti dalle PA, con lo scopo di tutelare i diritti dei cittadini, promuovere la loro partecipazione all'attività amministrativa e favorire il controllo degli stessi sul perseguimento delle funzioni istituzionali (<abbr title="articolo">art.</abbr> 1, <abbr title="comma">c.</abbr> 1)
 * i requisiti di qualità delle informazioni pubblicate sui siti istituzionali, tra i quali figurano anche la comprensibilità, la facile accessibilità e la riutilizzabilità (<abbr title="articolo">art.</abbr> 6, <abbr title="comma">c.</abbr> 1)
 * l'obbligo di costituzione, nel sito web istituzionale di ogni Ente pubblico, della sezione "Amministrazione trasparente" (<abbr title="articolo">art.</abbr> 9), componibile anche attraverso rimandi ad altre pagine del sito che includono le stesse informazioni, o tramite collegamenti ipertestuali verso le banche dati pubbliche esplicitate nell'Allegato B dello stesso decreto (<abbr title="articolo">art.</abbr> 9-bis, <abbr title="comma">c.</abbr> 2)
+
 La sezione "Amministrazione trasparente" è ben definita nella struttura e nella tipologia delle informazioni da pubblicare (con rimandi ai relativi articoli) nell'Allegato A del Decreto
 
 
