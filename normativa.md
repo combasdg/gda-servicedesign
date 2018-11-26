@@ -62,21 +62,23 @@ Con il [Decreto Trasparenza (<abbr title="Decreto Legislativo">D.Lgs.</abbr> 33/
 
 I contenuti della sezione "Amministrazione trasparente" sono esplicitati nei successivi articoli. Nell'Allegato (A) al Decreto, è ben definita la struttura della sezione (con rimandi agli articoli di riferimento), e in questo modo deve essere presentata nel sito istituzionale.
 
+## La legislazione, le linee guida di design e le circolari operative
 
-## Disposizioni in materia di riconoscibilità, aggiornamento, usabilità, accessibilità e registrazione al dominio ".gov.it" dei siti web delle P.A.. (Direttiva 8/2009 Ministero della Pubblica Amministrazione)
+Il [<abbr title="Decreto Legge"D.L.</abbr> 179/2012, convertito con <abbr title="Legge">L.</abbr> 221/2012](http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2012-10-19&atto.codiceRedazionale=012G0201&queryString=%3FmeseProvvedimento%3D%26formType%3Dricerca_semplice%26numeroArticolo%3D%26numeroProvvedimento%3D179%26testo%3D%26annoProvvedimento%3D2012%26giornoProvvedimento%3D&currentPage=1), stabilisce all'<abbr title="articolo">art.</abbr> 9, <abbr title="comma">c.</abbr> 7 l'obbligo per le Pubbliche Amministrazioni di dichiarare, sul proprio sito istituzionale, gli obiettivi annuali di accessibilità e lo stato di attuazione del "piano per l'utilizzo del telelavoro": la mancata osservanza della norma è rilevante ai fini della valutazione dei dirigenti responsabili.
 
-Direttiva del Ministro per la Pubblica Amministrazione e l’innovazione per la riduzione dei siti web delle Pubbliche Amministrazioni e per il miglioramento della qualità dei servizi e delle informazioni on line al cittadino.
+<abbr title="Agenzia per l'Italia Digitale">AgID</abbr> ha emanato una serie di circolari (l'ultima è la [Circolare <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> 1/2016](https://www.agid.gov.it/it/Circolare-n1-2016-Agenzia-Italia-Digitale)) con lo scopo di facilitare la redazione di tali obiettivi: si segnala, in particolare, la disponibilità di un'[applicazione web](http://accessibilita.agid.gov.it/) atta a compilarli e a generare la pagina <abbr title="HyperText Markup Language">HTML</abbr> da collegare al proprio sito, nella sezione *Amministrazione trasparente / Altri contenuti / Accessibilità e Catalogo di dati, metadati e banche dati*.
 
-## Ulteriori misure urgenti per la crescita del Paese (D.L. 179/2012, convertito con L. 221/2012)
+Si fa presente, inoltre, che è facoltà dei cittadini interessati [segnalare problemi di accessibilità](http://www.agid.gov.it/sites/default/files/regole_tecniche/modulo-segnalazioni-inaccessibilita_01.pdf) ai servizi web: per questo, <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> ha predisposto una procedura dedicata. Qualora <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> ritenesse il reclamo fondato, ne invia riscontro all'amministrazione coinvolta, che avrà tempo 90 giorni per adempiere all'adeguamento dei servizi.
 
-### Art. 9 - Documenti informatici, dati di tipo aperto e inclusione digitale
+Si segnalano, infine, due decisioni di esecuzione della Commissione Europea, che riguardano:
+* il modello di dichiarazione di accessibilità per siti web e applicazioni mobili degli enti pubblici ([Decisione di esecuzione (<abbr title="Unione Europea">UE</abbr>) 2018/1523](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv:OJ.L_.2018.256.01.0103.01.ITA&toc=OJ:L:2018:256:FULL))
+* la metodologia per il monitoraggio degli stessi servizi, e le relazioni in merito che gli Stati membri devono presentare annualmente a partire dal 2021 ([Decisione di esecuzione (<abbr title="Unione Europea">UE</abbr>) 2018/1524](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv:OJ.L_.2018.256.01.0108.01.ITA&toc=OJ:L:2018:256:FULL))
 
-Comma 7 - Entro il 31 marzo di ogni anno, le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, pubblicano nel proprio sito web, gli obiettivi di accessibilità per l'anno corrente e lo stato di attuazione del "piano per l'utilizzo del telelavoro" nella propria organizzazione, in cui identificano le modalità di realizzazione e le eventuali attività per cui non è possibile l'utilizzo del telelavoro. La redazione del piano in prima versione deve essere effettuata entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. La mancata pubblicazione è altresì rilevante ai fini della misurazione e valutazione della performance individuale dei dirigenti responsabili.
+A livello di riconoscibilità dell'indirizzo (<abbr title="Uniform Resource Locator">URL</abbr>) del sito, si menziona la [Direttiva 8/2009 del Ministero per la Pubblica Amministrazione](http://www.funzionepubblica.gov.it/articolo/dipartimento/26-11-2009/direttiva-n-8-2009), che prevedeva l'adozione del dominio *.gov.it* per tutti i siti della <abbr title="Pubblica Amministrazione">PA</abbr>, a qualsiasi livello: tale direttiva però è stata soppiantata dalla [Determinazione 36/2018 di <abbr title="Agenzia per l'Italia Digitale">AgID</abbr>](https://trasparenza.agid.gov.it/archivio28_provvedimenti_0_121520_725_1.html), che ha riorganizzato il dominio *.gov.it* riservandolo alle sole amministrazioni centrali, comportando quindi la migrazione verso altri domini per gli altri enti (*.edu.it* per le scuole, *.it* per Regioni e Comuni).
 
-## Obiettivi di accessibilità (Circolare AgID 61/2013, aggiornata con Circolare AgID 1/2016)
+Per quanto riguarda la progettazione dei siti web e dei servizi digitali, <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> ha pubblicato una serie di linee guida su:
+* [accessibilità dei siti web](https://www.agid.gov.it/it/design-servizi/accessibilita-siti-web)
+* [design di servizi digitali](https://www.agid.gov.it/it/design-servizi/linee-guida-design-servizi-digitali-pa) (Design Italia)
+* [usabilità](https://www.agid.gov.it/it/design-servizi/usabilita)
 
-Disposizioni del decreto legge 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221 in tema di accessibilità dei siti web e servizi informatici. Obblighi delle pubbliche Amministrazioni.
-
-## Linee guida di design servizi digitali della PA
-
-Linee guida di design per Regioni e Comuni, che hanno l’obiettivo di definire standard web di usabilità e design condivisi da tutta la pubblica amministrazione.
+La stessa [Determinazione 36/2018 di <abbr title="Agenzia per l'Italia Digitale">AgID</abbr>](https://trasparenza.agid.gov.it/archivio28_provvedimenti_0_121520_725_1.html) prevede verifiche delle linee guida per gli aderenti al dominio *.gov.it*: pertanto, allo stato in divenire, solo le amministrazioni centrali dello Stato sono obbligate ad adempiervi. Non è precisato se tale obbligo vige anche per le altre amministrazioni.
